@@ -1,0 +1,15 @@
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\Tutorial31.csproj.AssemblyReference.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\Tutorial31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\Tutorial31.AssemblyInfoInputs.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\Tutorial31.AssemblyInfo.cs
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\Tutorial31.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\bin\Debug\net6.0\Tutorial31.exe
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\bin\Debug\net6.0\Tutorial31.deps.json
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\bin\Debug\net6.0\Tutorial31.runtimeconfig.json
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\bin\Debug\net6.0\Tutorial31.dll
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\bin\Debug\net6.0\Tutorial31.pdb
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\Tutorial31.dll
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\refint\Tutorial31.dll
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\Tutorial31.pdb
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\Tutorial31.genruntimeconfig.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial31\Tutorial31\obj\Debug\net6.0\ref\Tutorial31.dll
