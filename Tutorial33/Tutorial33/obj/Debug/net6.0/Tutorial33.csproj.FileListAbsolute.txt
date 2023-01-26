@@ -1,0 +1,5 @@
+C:\Users\mrush\Desktop\c#Lessons\Tutorial33\Tutorial33\obj\Debug\net6.0\Tutorial33.csproj.AssemblyReference.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial33\Tutorial33\obj\Debug\net6.0\Tutorial33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrush\Desktop\c#Lessons\Tutorial33\Tutorial33\obj\Debug\net6.0\Tutorial33.AssemblyInfoInputs.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial33\Tutorial33\obj\Debug\net6.0\Tutorial33.AssemblyInfo.cs
+C:\Users\mrush\Desktop\c#Lessons\Tutorial33\Tutorial33\obj\Debug\net6.0\Tutorial33.csproj.CoreCompileInputs.cache

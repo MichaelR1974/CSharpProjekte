@@ -1,0 +1,15 @@
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\vsc060_Vererbung.csproj.AssemblyReference.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\vsc060_Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\vsc060_Vererbung.AssemblyInfoInputs.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\vsc060_Vererbung.AssemblyInfo.cs
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\vsc060_Vererbung.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\bin\Debug\net6.0\vsc060_Vererbung.exe
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\bin\Debug\net6.0\vsc060_Vererbung.deps.json
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\bin\Debug\net6.0\vsc060_Vererbung.runtimeconfig.json
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\bin\Debug\net6.0\vsc060_Vererbung.dll
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\bin\Debug\net6.0\vsc060_Vererbung.pdb
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\vsc060_Vererbung.dll
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\refint\vsc060_Vererbung.dll
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\vsc060_Vererbung.pdb
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\vsc060_Vererbung.genruntimeconfig.cache
+C:\Users\mrush\Desktop\c#Lessons\Tutorial35\Tutorial35\obj\Debug\net6.0\ref\vsc060_Vererbung.dll
